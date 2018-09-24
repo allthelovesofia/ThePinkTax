@@ -1,0 +1,2 @@
+# ThePinkTax
+GitHub Pages
